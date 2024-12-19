@@ -12,6 +12,11 @@
   Your browser does not support the video tag.
 </video>
 
+## How to Run
+- clone the repository
+- npm install 
+- npm run dev
+
 ### Contact : 
 #### Email : greatsuccess143590@gmail.com
 #### Telegram : https://t.me/mmmstart143590
