@@ -1,0 +1,66 @@
+{
+  "recommendations": [
+    {
+      "id": 1,
+      "preferences": [
+        "science fiction",
+        "artificial intelligence",
+        "space exploration"
+      ],
+      "recommendations": [
+        "Book: 'Dune' by Frank Herbert",
+        "Article: 'The Future of AI in Space Travel'",
+        "Movie: 'Interstellar'"
+      ]
+    },
+    {
+      "id": 2,
+      "preferences": [
+        "fantasy",
+        "magic",
+        "adventure"
+      ],
+      "recommendations": [
+        "Book: 'Harry Potter and the Sorcerer's Stone' by J.K. Rowling",
+        "Movie: 'The Lord of the Rings' Trilogy",
+        "Game: 'The Legend of Zelda'"
+      ]
+    },
+    {
+      "user_id": "12",
+      "preferences": [
+        "1",
+        "1",
+        "1"
+      ],
+      "id": 3
+    },
+    {
+      "user_id": "123",
+      "preferences": [
+        "1",
+        "2",
+        "3"
+      ],
+      "id": 4
+    },
+    {
+      "user_id": "1234",
+      "preferences": [
+        "4",
+        "4",
+        "4"
+      ],
+      "id": 5
+    },
+    {
+      "user_id": "222",
+      "preferences": [
+        "2",
+        "2",
+        "2"
+      ],
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "/api/llm/generate": "/recommendations",
+  "/users/:user_id/recommendations": "/recommendations?user_id=:user_id"
+}
